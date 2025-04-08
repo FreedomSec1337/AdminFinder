@@ -53,7 +53,7 @@ python3 njir.py --target http://example.com --threads 20 --proxy proxies.txt
 
 ## Структура файлов
 
-- `njir.pu` - Основной скрипт
+- `njir.py` - Основной скрипт
 - `admin_list.txt` - Содержит стандартные пути к админ-панелям
 - `proxy.txt` - Пример файла с прокси (создайте свой)
 
