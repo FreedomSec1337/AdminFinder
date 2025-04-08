@@ -88,8 +88,6 @@ http://testphp.vulnweb.com/panel [404]
 http://testphp.vulnweb.com/login [404]
 http://testphp.vulnweb.com/admin [200] > НАЙДЕНО
 
- [404]
-
 [•] Админ-панель найдена: http://testphp.vulnweb.com/admin
 ```
 
